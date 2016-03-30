@@ -219,6 +219,7 @@ header nav {
 		}
 		header nav ul li a.current, header nav ul li a:hover {
 			padding-bottom:5px;
+            transition:0.2s ease;
 		}
 		
 		header nav ul li:nth-of-type(2) a {
